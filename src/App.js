@@ -23,4 +23,6 @@ function App() {
   );
 }
 
+// i love this app
+
 export default App;
